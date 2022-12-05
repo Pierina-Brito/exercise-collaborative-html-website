@@ -64,6 +64,6 @@ The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-
 
 Distribucion:
 - Pierina Brito (Contact)
-- Carlos Herrera (Portafolio)
+- Carlos Herrera (Portafolio / Footer / Arreglos Generales)
 - Martin Maldonado (Navbar / First Heading)
 - Wissam Serhan (Tagline / Services)
